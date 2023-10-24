@@ -1,4 +1,4 @@
-# NYTImes Frontend
+# NYTimes Frontend
 
 This is the frontend project to get top stories from New York Times
 
